@@ -1,0 +1,4 @@
+#change dir
+
+# os.getcwd()
+os.chdir('/content/gdrive/My Drive/data_science/成大python課/訊號處理')
